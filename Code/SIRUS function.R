@@ -4,7 +4,7 @@ library(sirus)
 library(caTools)
 
 #A string representing the file path of the CSV file to be read.
-dataset<-read.csv(file='D:\\One Drive\\OneDrive - Liverpool John Moores University\\Desktop\\ICIC\\Thesis\\Dataset\\Chapter 4\\CNvsMCI_afterFS.csv')
+dataset<-read.csv(file='path to file')
 
 
 help(package="sirus")
